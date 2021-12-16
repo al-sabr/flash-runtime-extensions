@@ -1,6 +1,6 @@
 {
   "name": "flash-runtime-extensions",
-  "version-string": "1.9",
+  "version-string": "2.0",
   "description": "Adobe AIR Native Extension API for Windows/MacOS/Linux"
 }
 
